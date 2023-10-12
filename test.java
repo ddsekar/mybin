@@ -1,3 +1,6 @@
+Samhitha is a highly skilled data engineer and manager with strong leadership and communication skills. She has a deep understanding of Spark,Hadoop,Hazelcast,HBase and other technologies. She has successfully led her team to achieve their goals and is able to adapt to new roles.
+She is a highly motivated and demonstrated strong leadership skills, who is responsible for all aspects of the team's performance, including setting goals, tracking progress, mentoring team members, and resolving issues.
+
 Vishwanth is a highly skilled engineer with a deep understanding of Spark, Hadoop, Kafka, SSL, SSH, Hazelcast 
 He is able to quickly and effectively troubleshoot and resolve complex technical issues. He helped to troubleshoot and solve many CES production issues and SSL and SSH related things.
 He is a valuable asset to the team and is always willing to share his knowledge and expertise with others.
