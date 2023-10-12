@@ -100,3 +100,9 @@ Raj's continued development of these skills is essential for his success in his 
   Raj is also an excellent communicator. He is able to clearly articulate his vision and goals for the team, both verbally and in writing. He is also able to effectively communicate with team members at all levels of the organization, as well as with stakeholders outside of the team.
 
 
+  
+Raj is a vital team asset, excelling as both a manager and tech expert. He's improved leadership, motivating and inspiring the team, fostering a positive and productive work environment, and building trust and rapport within team. His delegation skills are effective. 
+As a tech expert, Raj guides and supports team, contributing our success. Raj's continued development of these skills is essential for his success in his role.
+
+
+
