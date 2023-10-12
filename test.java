@@ -54,6 +54,13 @@ He Should continue sharing his knowledge and expertise with others, both within 
 
 Sunil has very good knowledge in AppHero and the Health Restoration Service (HRS). He is always willing to help us to understand the AES project design and to define the contract between two systems. He is a clear and concise communicator, and he is always willing to go the extra mile to help his team succeed.
 
+%%%%%%%%%%%%
+  Rajat is a fast learner and devloped his ReactJS knowledge and played key role in HRS UI project. He has also contributed many new Actions to the Action library and developed a deep understanding of the intrinsic of HRS Actions.
+His Client Onboarding Service has made it much easier for users to create Git repositories and has reduced the support required for client onboarding to nearly zero.
+Overall Rajat has a strong technical foundation with good communication,very flexible and helpful to others
+%%%%%%%%%%%
+
+  
 Rajat is a valuable asset to the team. He is an all-rounder with deep knowledge and expertise in various technologies. He is always willing to help others in the team and solved many issues single-handedly, In addition he handled many user queries gives more satisfied experience to HRS users.
 
 Rajat started working on the HRS UI project with limited knowledge in ReactJS, but he quickly improved his knowledge and expertise. He has played a very important role in the HRS UI project, and he continues to work on it diligently.
