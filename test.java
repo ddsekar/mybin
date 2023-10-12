@@ -96,3 +96,7 @@ Raj is a valuable asset to the team as a manager and a technical expert. He has 
 As a technical expert, Raj has a deep understanding of the skills and knowledge required for the team to be successful. This allows him to provide guidance and support to his team members, and to make informed decisions about the team's work quickly and effectively, even under pressure.
 
 Raj's continued development of these skills is essential for his success in his role.
+
+  Raj is also an excellent communicator. He is able to clearly articulate his vision and goals for the team, both verbally and in writing. He is also able to effectively communicate with team members at all levels of the organization, as well as with stakeholders outside of the team.
+
+
