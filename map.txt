@@ -2,6 +2,7 @@
 Users can describe the desired workflow in natural language, and the LLM can translate this description into an executable low-code workflow.
 Helps users to write Groovy script snippets required for custom automation tasks within workflows.
 Automatically review workflow logic and code to identify potential errors or inefficiencies, readability, suggesting corrections or optimizations.
+Recreate the Automation Runbook from the Workflow: Generate detailed automation runbooks based on the developed workflows, ensuring all steps are documented for review and compliance.
 2. Standardizing Workflow Actions
 To enhance the usability of the Health Restoration Service (HRS), it is important to standardize the workflow actions library. Standardization ensures consistency, reusability, and ease of maintenance.
 Actions to be modular and reusable across different workflows.
