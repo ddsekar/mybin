@@ -29,3 +29,24 @@ Isolate tenant environments, ensuring that each tenant’s resources are segrega
 Implement resource quotas to allocate appropriate resources to each tenant.
 8. Scalability and High Availability 
 9. Cloud Support
+
+
+---------------------------
+
+
+HRS SDK for Programmatic Workflow Design
+
+Implement a HRS SDK and Integrating the LLP to programmatically create and deploy BPMN workflow definitions to enhance workflow development.
+
+Enable users to debug and breakpoint workflows within the studio environment.
+
+
+CES
+
+* CES Priority Queue Implementation to ensure time-sensitive requests are processed more quickly.
+* CES Metrics collection, alerting and Setup Dashboards
+
+=-----------------------------------
+Extend the HRS platform with new Action steps specifically designed to interact with cloud-based assets.
+
+Migrating to the cloud-native BPMN engine to improve scalability, resilience, and cloud-native capabilities.
